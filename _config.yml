@@ -1,3 +1,7 @@
+name: Juliuszielenieckiphotographer
+favicon: null
+layout_spectrum: 0.197995
+typography_spectrum: 0.8339599
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.1778339
-  rhythmicContrast: 0.6686341
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  lightness: 0.796796
-typography_spectrum: 0.8339599
-layout_spectrum: 0.197995
-name: Juliuszielenieckiphotographer
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
